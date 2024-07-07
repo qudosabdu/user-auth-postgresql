@@ -1,0 +1,14 @@
+{
+    "development": {
+      "username": "postgres.lddzjjozlilaawtjpkbr",
+      "password": "Abdulqudoos@313",
+      "database": "postgres",
+      "host": "aws-0-ap-southeast-1.pooler.supabase.com",
+      "dialect": "postgres"
+    },
+    "production": {
+      "use_env_variable": "DATABASE_URL",
+      "dialect": "postgres"
+    }
+  }
+  
